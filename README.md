@@ -54,6 +54,8 @@ hold down 'p' + mouse button 3 for far plane adjustment
 
 this mode allows the user to recreate viewport of different sizes by clicking one corner of the viewport then holding the button until the second corner of the viewport.
 
+**Screenshots**
+
 ![Alt text](https://github.com/markqian/3D-cube-with-perspective/blob/master/screenshots/screenshot1.png)
 
 ![Alt text](https://github.com/markqian/3D-cube-with-perspective/blob/master/screenshots/screenshot2.png)
