@@ -1,7 +1,7 @@
 **Introduction**
 
 
-This code implements a 3D unit cube with perspective using 2D line segments. You can manipulate this cube with various geometric transformations such as rotation, translation and scaling. Stuff like field of view, near plane, far plane and clipping is implemented as well. The clipping algorithm is based on the paper "A trip down the Graphics pipeline: Line Clipping" by Jim Blinn.
+This code implements a 3D unit cube with perspective using 2D line segments. You can manipulate this cube with various geometric transformations such as rotation, translation and scaling. Stuff like field of view, near plane, far plane and clipping are implemented as well. The clipping algorithm is based on the paper "A trip down the Graphics pipeline: Line Clipping" by Jim Blinn.
 
 **To make this code:**
 Type make in source directory.
