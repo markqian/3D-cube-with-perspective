@@ -13,29 +13,41 @@ This program has three modes in the menu bar.
 **Model mode (applying transformations to the cube)**
 
 hold down 'r' + mouse button 1 for rotation along x axis
+
 hold down 'r' + mouse button 2 for rotation along y axis
+
 hold down 'r' + mouse button 3 for rotation along z axis
 
 hold down 't' + mouse button 1 for translation along x axis
+
 hold down 't' + mouse button 2 for translation along y axis
+
 hold down 't' + mouse button 3 for translation along z axis
 
 hold down 's' + mouse button 1 for scaling along x axis
+
 hold down 's' + mouse button 2 for scaling along y axis
+
 hold down 's' + mouse button 3 for scaling along z axis
 
 **View mode (applying transformations to the camera)**
 
 hold down 'o' + mouse button 1 for rotation along x axis
+
 hold down 'o' + mouse button 2 for rotation along y axis
+
 hold down 'o' + mouse button 3 for rotation along z axis
 
 hold down 'n' + mouse button 1 for translation along x axis
+
 hold down 'n' + mouse button 2 for translation along y axis
+
 hold down 'n' + mouse button 3 for translation along z axis
 
 hold down 'p' + mouse button 1 for field of view adjustment
+
 hold down 'p' + mouse button 2 for near plane adjustment
+
 hold down 'p' + mouse button 3 for far plane adjustment
 
 **Viewport mode**
